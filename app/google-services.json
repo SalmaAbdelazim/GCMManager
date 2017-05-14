@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "113768410956",
+    "firebase_url": "https://gcmmanager-b26e7.firebaseio.com",
+    "project_id": "gcmmanager-b26e7",
+    "storage_bucket": "gcmmanager-b26e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113768410956:android:c0961f223d4483d5",
+        "android_client_info": {
+          "package_name": "com.example.salma.gcmmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113768410956-o3fs12grqkdcfnh5e23beha6oj5668fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLAYy_cHamipq69DlJ_j4OCiC0x45whtg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
